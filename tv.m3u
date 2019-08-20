@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="RTP1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-1-xs.gif" group-title="Nacionais",RTP 1
+#Canal Low - http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36887
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36886
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="RTP2" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-2-xs.gif" group-title="Nacionais",RTP 2
+#Canal Low - http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36885
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36884
+#EXTINF:-1 tvg-ID="sic.pt" tvg-name="SIC" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-xs.gif" group-title="Nacionais",SIC
+#Canal Low - http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36876
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35624
+#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="TVI" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-xs.gif" group-title="Nacionais",TVI
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36825
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="SIC NOTÍCIAS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-noticias-hd-xs.gif" group-title="Nacionais",SIC Noticias HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36868
+#EXTINF:-1 tvg-ID="rtpn.pt" tvg-name="RTP3" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-3-xs.gif" group-title="Nacionais",RTP 3
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36883
+#EXTINF:-1 tvg-ID="TVI24.pt" tvg-name="TVI24" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-24-xs.gif" group-title="Nacionais",TVI 24
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36824
+#EXTINF:-1 tvg-ID="CMTV.pt" tvg-name="CMTV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cmtv-xs.gif" group-title="Nacionais",CMTV
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36957
+#EXTINF:-1 tvg-ID="PortoCanal.pt" tvg-name="PORTO CANAL" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-porto-canal-hd-xs.gif" group-title="Nacionais",Porto Canal
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36890
+#EXTINF:-1 tvg-ID="siccaras.pt" tvg-name="SIC CARAS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-caras-hd-xs.gif" group-title="Nacionais",SIC CARAS HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35625
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="SIC RADICAL" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-radical-hd-xs.gif" group-title="Nacionais",SIC RADICAL HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35621
+#EXTINF:-1 tvg-ID="sicmulher.pt" tvg-name="SIC MULHER HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-mulher-hd-xs.gif" group-title="Nacionais",SIC MULHER HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35623
+#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="RTP MEMÓRIA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-memoria-xs.gif" group-title="Nacionais",RTP Memoria
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36879
+#EXTINF:-1 tvg-ID="Canal Q" tvg-name="Q" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canal-q-xs.gif" group-title="Nacionais",Canal Q
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36962
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-1-hd-xs.gif" group-title="Desporto",Sport TV 1 HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36860
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-1-xs.gif" group-title="Desporto",Sport TV 1
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36859
+#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-hd-xs.gif" group-title="Desporto",BTV HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35709
+#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-xs.gif" group-title="Desporto",BTV
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36967
+#EXTINF:-1 tvg-ID="ELEV1HD" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-1.gif" group-title="Desporto",Eleven Sports 1 Full HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36947
+#EXTINF:-1 tvg-ID="ELEV1HD" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ieleven-sports-1.gif" group-title="Desporto",Eleven Sports 1 HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36946
+#EXTINF:-1 tvg-ID="FuelTV" tvg-name="Fuel TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fuel-xs.gif" group-title="Desporto",Fuel TV
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36919
+#EXTINF:-1 tvg-ID="BABY TV" tvg-name="BABY TV" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-baby-tv-xs.gif" group-title="Infantis",BABY TV
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35723
+#EXTINF:-1 tvg-ID="canalpanda.pt" tvg-name="PANDA" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-panda-xs.gif" group-title="Infantis",CANAL PANDA
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35722
+#EXTINF:-1 tvg-ID="PandaBiggs.pt" tvg-name="PANDA BIGGS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-biggs-xs.gif" group-title="Infantis",Panda Biggs
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36892
+#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cartoon-network-xs.gif" group-title="Infantis",CARTOON NETWORK
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35721
+#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-disney-channel-xs.gif" group-title="Infantis",DISNEY CHANNEL
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35720
+#EXTINF:-1 tvg-ID="disneyjunior.pt" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-disney-junior-xs.gif" group-title="Infantis",DISNEY JÚNIOR
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35719
+#EXTINF:-1 tvg-ID="JJAM" tvg-name="JIMJAM" tvg-logo="https://www.meo.pt/PublishingImages/canais/jimjam.png" group-title="Infantis",JIM JAM
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35718
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMCHD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-amc-xs.gif" group-title="Filmes e Séries",AMC
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35770
+#EXTINF:-1 tvg-ID="TLC.pt" tvg-name="TLC" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TLC.png" group-title="Filmes e Séries",TLC
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35769
+#EXTINF:-1 tvg-ID="AXNBlack.pt" tvg-name="AXN BLACK" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-black-hd-xs.gif" group-title="Filmes e Séries",AXN BLACK HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35768
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="AXN" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-hd-xs.gif" group-title="Filmes e Séries",AXN HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35767
+#EXTINF:-1 tvg-ID="AXNWhite.pt" tvg-name="AXN WHITE" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-axn-white-hd-xs.gif" group-title="Filmes e Séries",AXN WHITE HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35766
+#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cinemundo-hd-xs.gif" group-title="Filmes e Séries",CINEMUNDO HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35765
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="FOX" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-hd-xs.gif" group-title="Filmes e Séries",FOX HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35764
+#EXTINF:-1 tvg-ID="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-comedy-hd-xs.gif" group-title="Filmes e Séries",FOX COMEDY
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35763
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="FOX CRIME" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-crime-hd-xs.gif" group-title="Filmes e Séries",FOX CRIME HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35762
+#EXTINF:-1 tvg-ID="FOXM" tvg-name="FOX MOVIES" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-movies-hd-xs.gif" group-title="Filmes e Séries",FOX MOVIES
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35761
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="FOX LIFE" tvg-logo=https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-life-xs.gif"" group-title="Filmes e Séries",FOX LIFE HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35760
+#EXTINF:-1 tvg-ID="hollywood.pt" tvg-name="HOLLYWOOD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-hollywood-hd-xs.gif" group-title="Filmes e Séries",HOLLYWOOD HD
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35758
+#EXTINF:-1 tvg-ID="SyFy.pt" tvg-name="SYFY" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-syfy-xs.gif" group-title="Filmes e Séries",SYFY
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35757
+#EXTINF:-1 tvg-ID=“TVCine1.pt” tvg-name="TVCINE 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvcine-1-hd-xs.gif" group-title="Filmes e Séries",TVCINE 1
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35755
+#EXTINF:-1 tvg-ID=“TVCine2.pt”tvg-name="TVCINE 2" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvcine-2-hd-xs.gif" group-title="Filmes e Séries",TVCINE 2
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35754
+#EXTINF:-1 tvg-ID=“TVCine3.pt” tvg-name="TVCINE 3" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvcine-3-hd-xs.gif" group-title="Filmes e Séries",TVCINE 3
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35753
+#EXTINF:-1 tvg-ID=“TVCine4.pt” tvg-name="TVCINE 4" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvcine-4-hd-xs.gif" group-title="Filmes e Séries",TVCINE 4
+http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35752
