@@ -11,3 +11,5 @@ http://bit.do/ficha_colorunserpa-
 
 I love **bold text**.
 >teste e bloco de teste!
+
+![Tux](https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-syfy-xs.gif)
