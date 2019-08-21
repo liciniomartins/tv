@@ -8,3 +8,5 @@ http://bit.do/ficha_colorunserpa-
 **olá**
 
 - [teste] (www.google.com)
+
+I love **bold text**.
