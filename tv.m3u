@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="RTP1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-1-xs.gif" group-title="Nacionais",RTP 1
+#EXTINF:-1 tvg-ID="RTP 1" tvg-name="RTP 1" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-1-xs.gif" group-title="Nacionais",RTP 1
 #Canal Low - http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36887
 http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36886
-#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="RTP2" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-2-xs.gif" group-title="Nacionais",RTP 2
+#EXTINF:-1 tvg-ID="RTP 2" tvg-name="RTP 2" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-2-xs.gif" group-title="Nacionais",RTP 2
 #Canal Low - http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36885
 http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36884
-#EXTINF:-1 tvg-ID="sic.pt" tvg-name="SIC" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-xs.gif" group-title="Nacionais",SIC
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-xs.gif" group-title="Nacionais",SIC
 #Canal Low - http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36876
 http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/35624
-#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="TVI" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-xs.gif" group-title="Nacionais",TVI
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-tvi-xs.gif" group-title="Nacionais",TVI
 http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36825
 #EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="SIC NOTÍCIAS" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-noticias-hd-xs.gif" group-title="Nacionais",SIC Noticias HD
 http://www.pandar.tv:25461/028634271101/BmiIM5DcZIqv9jj/36868
