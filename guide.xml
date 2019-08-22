@@ -2,150 +2,255 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="RTP 1">
     <display-name lang="pt">RTP 1</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-1.png" />
-    <url>http://www.meo.pt</url>
+    <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="RTP 2">
     <display-name lang="pt">RTP 2</display-name>
-    <url>http://www.meo.pt</url>
+    <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="SIC">
     <display-name lang="pt">SIC</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sic.png" />
-    <url>http://www.meo.pt</url>
+    <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="TVI">
     <display-name lang="pt">TVI</display-name>
-    <url>http://www.meo.pt</url>
+    <url>http://www.mag.sapo.pt</url>
   </channel>
+  <programme start="20190822001600 +0100" stop="20190822004800 +0100" channel="RTP 1">
+    <title lang="pt">Amor a Quanto Obrigas</title>
+    <episode-num>T4 Ep. 3</episode-num>
+  </programme>
+  <programme start="20190822004800 +0100" stop="20190822013300 +0100" channel="RTP 1">
+    <title lang="pt">Anatomia de Grey</title>
+    <episode-num>T14 Ep. 23</episode-num>
+  </programme>
+  <programme start="20190822013300 +0100" stop="20190822022100 +0100" channel="RTP 1">
+    <title lang="pt">Janela Indiscreta</title>
+  </programme>
+  <programme start="20190822022100 +0100" stop="20190822031200 +0100" channel="RTP 1">
+    <title lang="pt">Grande Entrevista: Dirk Niepoort</title>
+  </programme>
+  <programme start="20190822031200 +0100" stop="20190822035500 +0100" channel="RTP 1">
+    <title lang="pt">Água de Mar - Ep. 143</title>
+    <desc lang="pt">Ariana e Vicente conversam sozinhos e acabam por chegar à conclusão de que nenhum deles quer realmente casar. Vicente assume que ainda ama Teresa e Ariana confessa não estar preparada para dar um passo tão importante na sua vida(n)</desc>
+  </programme>
   <programme start="20190822035500 +0100" stop="20190822055900 +0100" channel="RTP 1">
     <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12897231/M" />
   </programme>
   <programme start="20190822055900 +0100" stop="20190822063000 +0100" channel="RTP 1">
     <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12897235/M" />
   </programme>
   <programme start="20190822063000 +0100" stop="20190822100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal (?)</title>
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
   <programme start="20190822100000 +0100" stop="20190822130000 +0100" channel="RTP 1">
-    <title lang="pt">7 Maravilhas Doces de Portugal - Finalistas (?)</title>
+    <title lang="pt">7 Maravilhas Doces de Portugal - Finalistas</title>
   </programme>
   <programme start="20190822130000 +0100" stop="20190822141800 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde (?)</title>
+    <title lang="pt">Jornal da Tarde</title>
   </programme>
   <programme start="20190822141800 +0100" stop="20190822173000 +0100" channel="RTP 1">
     <title lang="pt">7 Maravilhas Doces de Portugal - Finalistas (Tarde)</title>
-    <desc lang="pt">São as memórias que fazem de Portugal um país de mestres pasteleiros e as inovações que sabiamente introduzem os produtos únicos de cada região na arte da doçaria que vamos homenagear em 2019, com a eleição das 7 Maravilhas Doces de Portugal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12923347/M" />
   </programme>
   <programme start="20190822173000 +0100" stop="20190822184900 +0100" channel="RTP 1">
     <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12923351/M" />
   </programme>
   <programme start="20190822184900 +0100" stop="20190822185700 +0100" channel="RTP 1">
     <title lang="pt">Fatura da Sorte</title>
-    <desc lang="pt">Todas as semanas, o sorteio de certificados do tesouro, que tem por finalidade 'valorizar e premiar a cidadania fiscal dos contribuintes no combate à economia paralela e à evasão fiscal'(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12897251/M" />
   </programme>
   <programme start="20190822185700 +0100" stop="20190822195400 +0100" channel="RTP 1">
-    <title lang="pt">O Preço Certo (?)</title>
+    <title lang="pt">O Preço Certo</title>
   </programme>
   <programme start="20190822195400 +0100" stop="20190822195900 +0100" channel="RTP 1">
-    <title lang="pt">Direito de Antena (?)</title>
+    <title lang="pt">Direito de Antena</title>
   </programme>
   <programme start="20190822195900 +0100" stop="20190822210000 +0100" channel="RTP 1">
     <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12897259/M" />
   </programme>
   <programme start="20190822210000 +0100" stop="20190822213500 +0100" channel="RTP 1">
     <title lang="pt">Solteira e Boa Rapariga</title>
-    <desc lang="pt">O Vítor: Vítor (Eurico Lopes) é colega de Jaime na polícia. De dia é uma figura da autoridade e à noite prefere a submissão a um grande amor. Carla gosta da nouvelle vague e Vítor adormece quando ouve falar francês(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12914263/M" />
-    <episode-num system="onscreen">S1 E19</episode-num>
+    <episode-num>T1 Ep. 19</episode-num>
   </programme>
   <programme start="20190822213500 +0100" stop="20190822222500 +0100" channel="RTP 1">
-    <title lang="pt">Joker (?)</title>
+    <title lang="pt">Joker</title>
   </programme>
   <programme start="20190822222500 +0100" stop="20190823004400 +0100" channel="RTP 1">
-    <title lang="pt">Cosido à Mão (?)</title>
-    <episode-num system="onscreen">S2 E6</episode-num>
+    <title lang="pt">Cosido à Mão</title>
+    <episode-num>T2 Ep. 6</episode-num>
+  </programme>
+  <programme start="20190822003900 +0100" stop="20190822010600 +0100" channel="RTP 2">
+    <title lang="pt">Inspirando o Futuro - Singularity Portugal - Ep. 6</title>
+  </programme>
+  <programme start="20190822010600 +0100" stop="20190822014400 +0100" channel="RTP 2">
+    <title lang="pt">Visita Guiada</title>
+    <episode-num>T8 Ep. 18</episode-num>
+  </programme>
+  <programme start="20190822014400 +0100" stop="20190822023700 +0100" channel="RTP 2">
+    <title lang="pt">Sonhar o Futuro - Ep. 9</title>
+  </programme>
+  <programme start="20190822023700 +0100" stop="20190822050200 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20190822050200 +0100" stop="20190822054700 +0100" channel="RTP 2">
+    <title lang="pt">Bem-vindos a Beirais</title>
+    <episode-num>T4 Ep. 218</episode-num>
+  </programme>
+  <programme start="20190822054700 +0100" stop="20190822063200 +0100" channel="RTP 2">
+    <title lang="pt">Os Nossos Dias</title>
+    <episode-num>T2 Ep. 66</episode-num>
+  </programme>
+  <programme start="20190822063200 +0100" stop="20190822070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África</title>
+  </programme>
+  <programme start="20190822070000 +0100" stop="20190822120200 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20190822120200 +0100" stop="20190822123000 +0100" channel="RTP 2">
+    <title lang="pt">Sangue de Lobo</title>
+    <episode-num>T5 Ep. 4</episode-num>
+  </programme>
+  <programme start="20190822123000 +0100" stop="20190822140200 +0100" channel="RTP 2">
+    <title lang="pt">Hitler versus Picasso e os Outros</title>
+  </programme>
+  <programme start="20190822140200 +0100" stop="20190822140900 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20190822140900 +0100" stop="20190822150000 +0100" channel="RTP 2">
+    <title lang="pt">Sonhar o Futuro - Ep. 12</title>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822153300 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
+  </programme>
+  <programme start="20190822153300 +0100" stop="20190822160100 +0100" channel="RTP 2">
+    <title lang="pt">Medicinas do Mundo</title>
+    <episode-num>T3 Ep. 1</episode-num>
+  </programme>
+  <programme start="20190822160100 +0100" stop="20190822165600 +0100" channel="RTP 2">
+    <title lang="pt">Orcas - As Barbatanas da Mudança</title>
+  </programme>
+  <programme start="20190822165600 +0100" stop="20190822210100 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20190822210100 +0100" stop="20190822213000 +0100" channel="RTP 2">
+    <title lang="pt">Sangue de Lobo</title>
+    <episode-num>T4 Ep. 12</episode-num>
+  </programme>
+  <programme start="20190822213000 +0100" stop="20190822220400 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20190822220400 +0100" stop="20190822221100 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20190822221100 +0100" stop="20190822225600 +0100" channel="RTP 2">
+    <title lang="pt">Inimigos Secretos</title>
+    <episode-num>T1 Ep. 1</episode-num>
+  </programme>
+  <programme start="20190822225600 +0100" stop="20190822234900 +0100" channel="RTP 2">
+    <title lang="pt">O Louvre de Abu Dhabi - O Nascimento de um Museu</title>
+  </programme>
+  <programme start="20190822234900 +0100" stop="20190823004200 +0100" channel="RTP 2">
+    <title lang="pt">Mil Palavras Não Fazem Uma Árvore - Ep. 8</title>
+  </programme>
+  <programme start="20190822003000 +0100" stop="20190822023000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+    <episode-num>T6 Ep. 122</episode-num>
+  </programme>
+  <programme start="20190822023000 +0100" stop="20190822034000 +0100" channel="SIC">
+    <title lang="pt">Cabaret Da Coxa 2018 - Ep. 1</title>
   </programme>
   <programme start="20190822034000 +0100" stop="20190822053500 +0100" channel="SIC">
     <title lang="pt">Televendas</title>
-    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890511/M" />
   </programme>
   <programme start="20190822053500 +0100" stop="20190822060000 +0100" channel="SIC">
     <title lang="pt">Os Malucos do Riso</title>
-    <desc lang="pt">Anedotas, chalaças, piadas e graçolas, ao longo de pequenos sketches(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890482/M" />
   </programme>
   <programme start="20190822060000 +0100" stop="20190822091000 +0100" channel="SIC">
     <title lang="pt">Edição Da Manhã</title>
-    <desc lang="pt">Na Edição da Manhã, às notícias somam-se as primeiras páginas dos jornais, o trânsito em Lisboa e no Porto, a meteorologia, os mercados bolsistas e o Jornal de Economia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890514/M" />
   </programme>
   <programme start="20190822091000 +0100" stop="20190822101000 +0100" channel="SIC">
     <title lang="pt">Alô Portugal</title>
-    <desc lang="pt">“Alô Portugal” é uma sala de estar e de conversar bem ao estilo do seu apresentador, José Figueiras e dos seus ilustres convidados e o ponto de encontro das comunidades portuguesas espalhadas pelos 5 continentes(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890485/M" />
   </programme>
   <programme start="20190822101000 +0100" stop="20190822130000 +0100" channel="SIC">
     <title lang="pt">O Programa da Cristina</title>
-    <desc lang="pt">Cristina Ferreira conduz diariamente este talk-show como se estivesse na sua própria casa. A boa disposição está garantida e as surpresas farão parte do dia-a-dia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890488/M" />
-    <episode-num system="onscreen">S1 E164</episode-num>
+    <episode-num>T1 Ep. 164</episode-num>
   </programme>
   <programme start="20190822130000 +0100" stop="20190822144500 +0100" channel="SIC">
     <title lang="pt">Primeiro Jornal</title>
-    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890517/M" />
   </programme>
   <programme start="20190822144500 +0100" stop="20190822161500 +0100" channel="SIC">
-    <title lang="pt">Amor Maior (?)</title>
-    <episode-num system="onscreen">S1 E102</episode-num>
+    <title lang="pt">Amor Maior</title>
+    <episode-num>T1 Ep. 102</episode-num>
   </programme>
   <programme start="20190822161500 +0100" stop="20190822181500 +0100" channel="SIC">
     <title lang="pt">Júlia</title>
-    <desc lang="pt">Vidas inspiradoras, conversas inesquecíveis num espaço certo para receber, ouvir e surpreender. Histórias de vida que ficam para sempre. Um programa de Júlia Pinheiro(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890494/M" />
-    <episode-num system="onscreen">S2 E155</episode-num>
+    <episode-num>T2 Ep. 155</episode-num>
   </programme>
   <programme start="20190822181500 +0100" stop="20190822191000 +0100" channel="SIC">
-    <title lang="pt">Avenida Brasil (?)</title>
-    <episode-num system="onscreen">E164</episode-num>
+    <title lang="pt">Avenida Brasil - Ep. 164</title>
+    <desc lang="pt">Nina e Begônia enfrentam Max. Max fala para Carminha que vai administrar o dinheiro que pegou de Nina. Jorginho decide entregar as fotos para Tufão(n)</desc>
   </programme>
   <programme start="20190822191000 +0100" stop="20190822195700 +0100" channel="SIC">
     <title lang="pt">Prémio De Sonho</title>
-    <desc lang="pt">Tem um sonho por concretizar? No “Prémio de Sonho” pode estar a oportunidade de realizá-lo. Aqui são os concorrentes que escolhem os prémios e podem ganhar aquilo que realmente desejam. Conduzido por Cristina Ferreira, cada edição será sempre imprevisível e garantidamente animada(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890499/M" />
-    <episode-num system="onscreen">S1 E14</episode-num>
+    <episode-num>T1 Ep. 14</episode-num>
   </programme>
   <programme start="20190822195700 +0100" stop="20190822215000 +0100" channel="SIC">
     <title lang="pt">Jornal Da Noite</title>
-    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890520/M" />
   </programme>
   <programme start="20190822215000 +0100" stop="20190822224000 +0100" channel="SIC">
-    <title lang="pt">Golpe De Sorte (?)</title>
-    <episode-num system="onscreen">E64</episode-num>
+    <title lang="pt">Golpe De Sorte - Ep. 64</title>
   </programme>
   <programme start="20190822224000 +0100" stop="20190822235000 +0100" channel="SIC">
-    <title lang="pt">Alma e Coração</title>
-    <desc lang="pt">O juiz retoma a audiência e deixa Diana aguardar o julgamento em liberdade. Gustavo fica muitíssimo satisfeito e Diana também. João aparece de surpresa e quer levar Diana a jantar para comemorar mas ela recusa e relembra-o que está tudo acabado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890505/M" />
-    <episode-num system="onscreen">E282</episode-num>
+    <title lang="pt">Alma e Coração - Ep. 282</title>
   </programme>
   <programme start="20190822235000 +0100" stop="20190823003000 +0100" channel="SIC">
-    <title lang="pt">A Dona Do Pedaço</title>
-    <desc lang="pt">Maria da Paz afirma a Márcio que comprará a mansão para a filha. Chiclete conta a Evelina que deixará de ser matador de aluguel após tirar a vida de Kim(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12890508/M" />
-    <episode-num system="onscreen">E59</episode-num>
+    <title lang="pt">A Dona Do Pedaço - Ep. 59</title>
+  </programme>
+  <programme start="20190822004000 +0100" stop="20190822022000 +0100" channel="TVI">
+    <title lang="pt">1000 À Hora</title>
+  </programme>
+  <programme start="20190822022000 +0100" stop="20190822031600 +0100" channel="TVI">
+    <title lang="pt">Meu Amor - Ep. 85</title>
+    <desc lang="pt">As extensas e floridas planícies de proteas e o mar do litoral alentejano testemunham a história de amor clandestina de Mel e Bernardo. O rapaz é filho do dono da herdade onde Mel, filha do caseiro, vive e trabalha como camponesa(n)</desc>
+  </programme>
+  <programme start="20190822031600 +0100" stop="20190822041000 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo - Ep. 109</title>
+    <desc lang="pt">Há trinta anos, Violante estava de casamento marcado com o ambicioso Daniel, inconformado com a pobre vida que tinha. Sequioso de ascensão social, Daniel não hesitou em trocar a namorada pobre e que esperava um filho seu, pela milionária Eugénia Monforte(n)</desc>
+  </programme>
+  <programme start="20190822041000 +0100" stop="20190822051500 +0100" channel="TVI">
+    <title lang="pt">Saber Amar - Ep. 105</title>
+  </programme>
+  <programme start="20190822051500 +0100" stop="20190822063000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20190822063000 +0100" stop="20190822101400 +0100" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20190822101400 +0100" stop="20190822130000 +0100" channel="TVI">
+    <title lang="pt">Você Na TV</title>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822144200 +0100" channel="TVI">
+    <title lang="pt">Jornal Da Uma</title>
+  </programme>
+  <programme start="20190822144200 +0100" stop="20190822161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte - Ep. 94</title>
+    <desc lang="pt">A família Belmonte está ligada à história ancestral da terra, mas Emílio, o último descendente da família, casou com Clarisse, uma mulher que não podia ter filhos e, por tal, para a sobrevivência do nome, o casal foi adotando as crianças(n)</desc>
+  </programme>
+  <programme start="20190822161500 +0100" stop="20190822191400 +0100" channel="TVI">
+    <title lang="pt">A Tarde É Sua</title>
+  </programme>
+  <programme start="20190822191400 +0100" stop="20190822195700 +0100" channel="TVI">
+    <title lang="pt">First Dates - Diários</title>
+  </programme>
+  <programme start="20190822195700 +0100" stop="20190822214000 +0100" channel="TVI">
+    <title lang="pt">Jornal Das 8</title>
+  </programme>
+  <programme start="20190822214000 +0100" stop="20190822224000 +0100" channel="TVI">
+    <title lang="pt">Amar Depois De Amar - Ep. 49</title>
+  </programme>
+  <programme start="20190822224000 +0100" stop="20190822234000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira - Ep. 82</title>
+  </programme>
+  <programme start="20190822234000 +0100" stop="20190823003500 +0100" channel="TVI">
+    <title lang="pt">Like Me - Diário (Madrugada)</title>
   </programme>
 </tv>
