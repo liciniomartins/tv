@@ -24,6 +24,18 @@
     <display-name lang="pt">RTP 3</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
   <programme start="20190822001600 +0100" stop="20190822004800 +0100" channel="RTP 1">
     <title lang="pt">Amor a Quanto Obrigas T.4 E... (?)</title>
     <category lang="pt">series</category>
@@ -713,5 +725,269 @@
   <programme start="20190822230500 +0100" stop="20190823000000 +0100" channel="RTP 3">
     <title lang="pt">Grande Área (?)</title>
     <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822010000 +0100" stop="20190822013400 +0100" channel="TVI 24">
+    <title lang="pt">2ª Hora (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822013400 +0100" stop="20190822032300 +0100" channel="TVI 24">
+    <title lang="pt">Mais Transferências (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822032300 +0100" stop="20190822033400 +0100" channel="TVI 24">
+    <title lang="pt">A Minha É Melhor Que a Tua (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822033400 +0100" stop="20190822043000 +0100" channel="TVI 24">
+    <title lang="pt">25ª Hora (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822043000 +0100" stop="20190822063000 +0100" channel="TVI 24">
+    <title lang="pt">TV Shop (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822063000 +0100" stop="20190822100000 +0100" channel="TVI 24">
+    <title lang="pt">Diário da Manhã (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822100000 +0100" stop="20190822110000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822110000 +0100" stop="20190822115500 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822115500 +0100" stop="20190822130000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822143000 +0100" channel="TVI 24">
+    <title lang="pt">Jornal da Uma (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822143000 +0100" stop="20190822150000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822155500 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822155500 +0100" stop="20190822180000 +0100" channel="TVI 24">
+    <title lang="pt">Liga Revelação (?)</title>
+    <sub-title lang="pt">Feirense x Benfica</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822180000 +0100" stop="20190822190000 +0100" channel="TVI 24">
+    <title lang="pt">Mais Transferências (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822190000 +0100" stop="20190822200000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822200000 +0100" stop="20190822210000 +0100" channel="TVI 24">
+    <title lang="pt">Mais Transferências (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822210000 +0100" stop="20190822221000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822221000 +0100" stop="20190823000000 +0100" channel="TVI 24">
+    <title lang="pt">Mais Transferências (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822003000 +0100" stop="20190822013000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822022000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822022000 +0100" stop="20190822023000 +0100" channel="CMTV">
+    <title lang="pt">Hora Record (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822023000 +0100" stop="20190822025000 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822025000 +0100" stop="20190822043000 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Sexo, Festas e Mentiras (?)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190822043000 +0100" stop="20190822044500 +0100" channel="CMTV">
+    <title lang="pt">Falar Glob... (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822044500 +0100" stop="20190822050000 +0100" channel="CMTV">
+    <title lang="pt">Falar Glob... (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822050000 +0100" stop="20190822060000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822090800 +0100" stop="20190822105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822105700 +0100" stop="20190822113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822113000 +0100" stop="20190822115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822115700 +0100" stop="20190822123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822123000 +0100" stop="20190822145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822145700 +0100" stop="20190822151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822151500 +0100" stop="20190822153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal T.... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822153000 +0100" stop="20190822175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822175500 +0100" stop="20190822185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822185700 +0100" stop="20190822194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal às 7 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822194500 +0100" stop="20190822211000 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822211000 +0100" stop="20190822214500 +0100" channel="CMTV">
+    <title lang="pt">Investigação CM (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822214500 +0100" stop="20190823003000 +0100" channel="CMTV">
+    <title lang="pt">Liga D'Ouro (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822003000 +0100" stop="20190822013000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822033000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Desporto em Direto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822033000 +0100" stop="20190822040000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Azul e Branco (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822040000 +0100" stop="20190822060000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Desporto em Direto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822063000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822063000 +0100" stop="20190822070000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822070000 +0100" stop="20190822080000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Radioativo (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822080000 +0100" stop="20190822090000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto (?)</title>
+    <sub-title lang="pt">Entrevista</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822090000 +0100" stop="20190822093000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Cadeira de Sonho (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822093000 +0100" stop="20190822100000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Pontos Cardeais (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822100000 +0100" stop="20190822103000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822103000 +0100" stop="20190822123000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Especial Verão (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822123000 +0100" stop="20190822130000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822140000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Júlio Magalhães (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822140000 +0100" stop="20190822150000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Filhos &amp; Cadilhos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822160000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Radioativo (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822160000 +0100" stop="20190822163000 +0100" channel="PORTO CANAL">
+    <title lang="pt">No Coração da Ação (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822163000 +0100" stop="20190822170000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822170000 +0100" stop="20190822173000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822173000 +0100" stop="20190822193000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Especial Verão (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822193000 +0100" stop="20190822203000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto (?)</title>
+    <sub-title lang="pt">Entrevista</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822203000 +0100" stop="20190822210000 +0100" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda (?)</title>
+    <sub-title lang="pt">Compacto</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822210000 +0100" stop="20190822220000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Jornal Diário (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822220000 +0100" stop="20190822230000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822230000 +0100" stop="20190823000000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Gente Com História (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
 </tv>
