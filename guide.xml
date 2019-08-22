@@ -2,267 +2,716 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="RTP 1">
     <display-name lang="pt">RTP 1</display-name>
-    <url>http://www.mag.sapo.pt</url>
+    <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP 2">
     <display-name lang="pt">RTP 2</display-name>
-    <url>http://www.mag.sapo.pt</url>
+    <url>http://www.nos.pt</url>
   </channel>
   <channel id="SIC">
     <display-name lang="pt">SIC</display-name>
-    <url>http://www.mag.sapo.pt</url>
+    <url>http://www.nos.pt</url>
   </channel>
   <channel id="TVI">
     <display-name lang="pt">TVI</display-name>
-    <url>http://www.mag.sapo.pt</url>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTÍCIAS">
+    <display-name lang="pt">SIC NOTÍCIAS</display-name>
+    <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP 3">
     <display-name lang="pt">RTP 3</display-name>
-    <url>http://www.nowo.pt</url>
-  </channel>
-  <channel id="SIC NOTICIAS">
-    <display-name lang="pt">SIC NOTICIAS</display-name>
-    <url>http://www.nowo.pt</url>
-  </channel>
-  <channel id="TVI 24">
-    <display-name lang="pt">TVI 24</display-name>
-    <url>http://www.nowo.pt</url>
+    <url>http://www.nos.pt</url>
   </channel>
   <programme start="20190822001600 +0100" stop="20190822004800 +0100" channel="RTP 1">
-    <title lang="pt">Amor a Quanto Obrigas</title>
-    <episode-num>T4 Ep. 3</episode-num>
+    <title lang="pt">Amor a Quanto Obrigas T.4 E... (?)</title>
+    <category lang="pt">series</category>
   </programme>
   <programme start="20190822004800 +0100" stop="20190822013300 +0100" channel="RTP 1">
-    <title lang="pt">Anatomia de Grey</title>
-    <episode-num>T14 Ep. 23</episode-num>
+    <title lang="pt">Anatomia de Grey (?)</title>
+    <category lang="pt">series</category>
   </programme>
   <programme start="20190822013300 +0100" stop="20190822022100 +0100" channel="RTP 1">
-    <title lang="pt">Janela Indiscreta</title>
+    <title lang="pt">Janela Indiscreta (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822022100 +0100" stop="20190822031200 +0100" channel="RTP 1">
-    <title lang="pt">Grande Entrevista: Dirk Niepoort</title>
+    <title lang="pt">Grande Entrevista (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822031200 +0100" stop="20190822035500 +0100" channel="RTP 1">
-    <title lang="pt">Água de Mar - Ep. 143</title>
-    <desc lang="pt">Ariana e Vicente conversam sozinhos e acabam por chegar à conclusão de que nenhum deles quer realmente casar. Vicente assume que ainda ama Teresa e Ariana confessa não estar preparada para dar um passo tão importante na sua vida(n)</desc>
+    <title lang="pt">Água de Mar (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822035500 +0100" stop="20190822055900 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
+    <title lang="pt">Televendas (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822055900 +0100" stop="20190822063000 +0100" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
+    <title lang="pt">Manchetes 3 (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822063000 +0100" stop="20190822100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
+    <title lang="pt">Bom Dia Portugal (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822100000 +0100" stop="20190822130000 +0100" channel="RTP 1">
-    <title lang="pt">7 Maravilhas Doces de Portugal - Finalistas</title>
+    <title lang="pt">7 Maravilhas Doces de Portugal (?)</title>
+    <sub-title lang="pt">Os Finalistas</sub-title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822130000 +0100" stop="20190822141800 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
+    <title lang="pt">Jornal da Tarde (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822141800 +0100" stop="20190822173000 +0100" channel="RTP 1">
-    <title lang="pt">7 Maravilhas Doces de Portugal - Finalistas (Tarde)</title>
+    <title lang="pt">7 Maravilhas Doces de Portugal (?)</title>
+    <sub-title lang="pt">Os Finalistas</sub-title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822173000 +0100" stop="20190822184900 +0100" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
+    <title lang="pt">Portugal em Direto (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822184900 +0100" stop="20190822185700 +0100" channel="RTP 1">
-    <title lang="pt">Fatura da Sorte</title>
+    <title lang="pt">Fatura Da Sorte (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822185700 +0100" stop="20190822195400 +0100" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
+    <title lang="pt">O Preço Certo (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822195400 +0100" stop="20190822195900 +0100" channel="RTP 1">
-    <title lang="pt">Direito de Antena</title>
+    <title lang="pt">Direito de Antena (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822195900 +0100" stop="20190822210000 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
+    <title lang="pt">Telejornal (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822210000 +0100" stop="20190822213500 +0100" channel="RTP 1">
-    <title lang="pt">Solteira e Boa Rapariga</title>
-    <episode-num>T1 Ep. 19</episode-num>
+    <title lang="pt">Solteira e Boa Rapariga T.1 Ep... (?)</title>
+    <category lang="pt">series</category>
   </programme>
   <programme start="20190822213500 +0100" stop="20190822222500 +0100" channel="RTP 1">
-    <title lang="pt">Joker</title>
+    <title lang="pt">Joker (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822222500 +0100" stop="20190823004400 +0100" channel="RTP 1">
-    <title lang="pt">Cosido à Mão</title>
-    <episode-num>T2 Ep. 6</episode-num>
+    <title lang="pt">Cosido à Mão (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822003900 +0100" stop="20190822010600 +0100" channel="RTP 2">
-    <title lang="pt">Inspirando o Futuro - Singularity Portugal - Ep. 6</title>
+    <title lang="pt">Inspirando o Futuro (?)</title>
+    <sub-title lang="pt">...</sub-title>
+    <category lang="pt">documentarios</category>
   </programme>
   <programme start="20190822010600 +0100" stop="20190822014400 +0100" channel="RTP 2">
-    <title lang="pt">Visita Guiada</title>
-    <episode-num>T8 Ep. 18</episode-num>
+    <title lang="pt">Visita Guiada (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822014400 +0100" stop="20190822023700 +0100" channel="RTP 2">
-    <title lang="pt">Sonhar o Futuro - Ep. 9</title>
+    <title lang="pt">Sonhar o Futuro (?)</title>
+    <category lang="pt">documentarios</category>
   </programme>
   <programme start="20190822023700 +0100" stop="20190822050200 +0100" channel="RTP 2">
-    <title lang="pt">Euronews</title>
+    <title lang="pt">Euronews (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822050200 +0100" stop="20190822054700 +0100" channel="RTP 2">
-    <title lang="pt">Bem-vindos a Beirais</title>
-    <episode-num>T4 Ep. 218</episode-num>
+    <title lang="pt">Bem-Vindos a Beirais (?)</title>
+    <category lang="pt">series</category>
   </programme>
   <programme start="20190822054700 +0100" stop="20190822063200 +0100" channel="RTP 2">
-    <title lang="pt">Os Nossos Dias</title>
-    <episode-num>T2 Ep. 66</episode-num>
+    <title lang="pt">Os Nossos Dias (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20190822063200 +0100" stop="20190822070000 +0100" channel="RTP 2">
-    <title lang="pt">Repórter África</title>
+  <programme start="20190822063200 +0100" stop="20190822070200 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África (?)</title>
+    <sub-title lang="pt">2ª Edição</sub-title>
+    <category lang="pt">informacao</category>
   </programme>
-  <programme start="20190822070000 +0100" stop="20190822120200 +0100" channel="RTP 2">
-    <title lang="pt">Espaço Zig Zag</title>
+  <programme start="20190822070200 +0100" stop="20190822071600 +0100" channel="RTP 2">
+    <title lang="pt">Vipo, as Aventuras do Cão Voador (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822071600 +0100" stop="20190822072900 +0100" channel="RTP 2">
+    <title lang="pt">O Coelho Júlio (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822072900 +0100" stop="20190822074000 +0100" channel="RTP 2">
+    <title lang="pt">Grande e Pequeno (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822074000 +0100" stop="20190822075100 +0100" channel="RTP 2">
+    <title lang="pt">Mini Ninjas (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822075100 +0100" stop="20190822075600 +0100" channel="RTP 2">
+    <title lang="pt">Kiwi (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822075600 +0100" stop="20190822080900 +0100" channel="RTP 2">
+    <title lang="pt">A Vaca, o Gato e o Oceano (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822080900 +0100" stop="20190822081700 +0100" channel="RTP 2">
+    <title lang="pt">As Aventuras da Miffy (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822081700 +0100" stop="20190822083600 +0100" channel="RTP 2">
+    <title lang="pt">Waybuloo T.1 E... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822083600 +0100" stop="20190822084700 +0100" channel="RTP 2">
+    <title lang="pt">A Princesinha (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822084700 +0100" stop="20190822085900 +0100" channel="RTP 2">
+    <title lang="pt">O Mundo de Luna! (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822085900 +0100" stop="20190822091100 +0100" channel="RTP 2">
+    <title lang="pt">Blinky Bill (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822091100 +0100" stop="20190822092600 +0100" channel="RTP 2">
+    <title lang="pt">Origanimai... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822092600 +0100" stop="20190822093800 +0100" channel="RTP 2">
+    <title lang="pt">Estela e Simão (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822093800 +0100" stop="20190822094900 +0100" channel="RTP 2">
+    <title lang="pt">Campo Lakebottom (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822094900 +0100" stop="20190822095600 +0100" channel="RTP 2">
+    <title lang="pt">As Perguntas da Mily (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822095600 +0100" stop="20190822100600 +0100" channel="RTP 2">
+    <title lang="pt">Tufão (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822100600 +0100" stop="20190822101800 +0100" channel="RTP 2">
+    <title lang="pt">Robin dos Bosques (?)</title>
+    <sub-title lang="pt">Travessuras em Sherwood T.1 Ep.48</sub-title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822101800 +0100" stop="20190822102900 +0100" channel="RTP 2">
+    <title lang="pt">A Mirette Investiga (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822102900 +0100" stop="20190822105100 +0100" channel="RTP 2">
+    <title lang="pt">Lucas (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822105100 +0100" stop="20190822110300 +0100" channel="RTP 2">
+    <title lang="pt">Bali (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822110300 +0100" stop="20190822110800 +0100" channel="RTP 2">
+    <title lang="pt">A Grande Descoberta (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822110800 +0100" stop="20190822111500 +0100" channel="RTP 2">
+    <title lang="pt">Wissper (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822111500 +0100" stop="20190822112700 +0100" channel="RTP 2">
+    <title lang="pt">Ao Resgate da Selva (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822112700 +0100" stop="20190822113900 +0100" channel="RTP 2">
+    <title lang="pt">Bottersnikes &amp; Gumbles (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822113900 +0100" stop="20190822120200 +0100" channel="RTP 2">
+    <title lang="pt">Drama Total Ilha P... (?)</title>
+    <category lang="pt">infantil</category>
   </programme>
   <programme start="20190822120200 +0100" stop="20190822123000 +0100" channel="RTP 2">
-    <title lang="pt">Sangue de Lobo</title>
-    <episode-num>T5 Ep. 4</episode-num>
+    <title lang="pt">Sangue de Lobo (?)</title>
+    <category lang="pt">infantil</category>
   </programme>
   <programme start="20190822123000 +0100" stop="20190822140200 +0100" channel="RTP 2">
-    <title lang="pt">Hitler versus Picasso e os Outros</title>
+    <title lang="pt">Hitler versus Picasso e os Outros (?)</title>
+    <category lang="pt">documentarios</category>
   </programme>
   <programme start="20190822140200 +0100" stop="20190822140900 +0100" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+    <title lang="pt">Folha de Sala (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822140900 +0100" stop="20190822150000 +0100" channel="RTP 2">
-    <title lang="pt">Sonhar o Futuro - Ep. 12</title>
+    <title lang="pt">Sonhar o Futuro (?)</title>
+    <category lang="pt">documentarios</category>
   </programme>
   <programme start="20190822150000 +0100" stop="20190822153300 +0100" channel="RTP 2">
-    <title lang="pt">A Fé Dos Homens</title>
+    <title lang="pt">A Fé dos Homens (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822153300 +0100" stop="20190822160100 +0100" channel="RTP 2">
-    <title lang="pt">Medicinas do Mundo</title>
-    <episode-num>T3 Ep. 1</episode-num>
+    <title lang="pt">Medicinas do Mundo T.3 ... (?)</title>
+    <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20190822160100 +0100" stop="20190822165600 +0100" channel="RTP 2">
-    <title lang="pt">Orcas - As Barbatanas da Mudança</title>
+  <programme start="20190822160100 +0100" stop="20190822165700 +0100" channel="RTP 2">
+    <title lang="pt">Orcas (?)</title>
+    <sub-title lang="pt">As Barbatanas da Mudança</sub-title>
+    <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20190822165600 +0100" stop="20190822210100 +0100" channel="RTP 2">
-    <title lang="pt">Espaço Zig Zag</title>
+  <programme start="20190822165700 +0100" stop="20190822170900 +0100" channel="RTP 2">
+    <title lang="pt">Vipo, as Aventuras do Cão Voador (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822170900 +0100" stop="20190822172200 +0100" channel="RTP 2">
+    <title lang="pt">Bali (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822172200 +0100" stop="20190822173300 +0100" channel="RTP 2">
+    <title lang="pt">O Coelho Júlio (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822173300 +0100" stop="20190822174400 +0100" channel="RTP 2">
+    <title lang="pt">Grande e Pequeno (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822174400 +0100" stop="20190822175300 +0100" channel="RTP 2">
+    <title lang="pt">Wissper (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822175300 +0100" stop="20190822180500 +0100" channel="RTP 2">
+    <title lang="pt">O Mundo de Luna! (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822180500 +0100" stop="20190822181000 +0100" channel="RTP 2">
+    <title lang="pt">Kiwi (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822181000 +0100" stop="20190822182300 +0100" channel="RTP 2">
+    <title lang="pt">A Vaca, o Gato e o Oceano (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822182300 +0100" stop="20190822183000 +0100" channel="RTP 2">
+    <title lang="pt">As Aventuras da Miffy (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822183000 +0100" stop="20190822185500 +0100" channel="RTP 2">
+    <title lang="pt">O Gato da Cartola T.... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822185500 +0100" stop="20190822190600 +0100" channel="RTP 2">
+    <title lang="pt">Mini Ninjas (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822190600 +0100" stop="20190822191800 +0100" channel="RTP 2">
+    <title lang="pt">Blinky Bill (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822191800 +0100" stop="20190822193100 +0100" channel="RTP 2">
+    <title lang="pt">Origanimais (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822193100 +0100" stop="20190822194300 +0100" channel="RTP 2">
+    <title lang="pt">Estela e Simão (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822194300 +0100" stop="20190822195000 +0100" channel="RTP 2">
+    <title lang="pt">A Grande Descoberta (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822195000 +0100" stop="20190822200300 +0100" channel="RTP 2">
+    <title lang="pt">Campo Lakebottom (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822200300 +0100" stop="20190822201600 +0100" channel="RTP 2">
+    <title lang="pt">Robin dos Bosques (?)</title>
+    <sub-title lang="pt">Travessuras em Sherwood T.1 Ep.44</sub-title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822201600 +0100" stop="20190822202300 +0100" channel="RTP 2">
+    <title lang="pt">As Perguntas da Mily (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822202300 +0100" stop="20190822203200 +0100" channel="RTP 2">
+    <title lang="pt">Tufão (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822203200 +0100" stop="20190822204300 +0100" channel="RTP 2">
+    <title lang="pt">A Mirette Investiga (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822204300 +0100" stop="20190822205500 +0100" channel="RTP 2">
+    <title lang="pt">Bottersnikes &amp; Gumbles (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822205500 +0100" stop="20190822210100 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag (?)</title>
+    <category lang="pt">infantil</category>
   </programme>
   <programme start="20190822210100 +0100" stop="20190822213000 +0100" channel="RTP 2">
-    <title lang="pt">Sangue de Lobo</title>
-    <episode-num>T4 Ep. 12</episode-num>
+    <title lang="pt">Sangue de Lobo (?)</title>
+    <category lang="pt">infantil</category>
   </programme>
   <programme start="20190822213000 +0100" stop="20190822220400 +0100" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
+    <title lang="pt">Jornal 2 (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822220400 +0100" stop="20190822221100 +0100" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+    <title lang="pt">Folha de Sala (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822221100 +0100" stop="20190822225600 +0100" channel="RTP 2">
-    <title lang="pt">Inimigos Secretos</title>
-    <episode-num>T1 Ep. 1</episode-num>
+    <title lang="pt">Inimigos Secretos (?)</title>
+    <category lang="pt">series</category>
   </programme>
   <programme start="20190822225600 +0100" stop="20190822234900 +0100" channel="RTP 2">
-    <title lang="pt">O Louvre de Abu Dhabi - O Nascimento de um Museu</title>
+    <title lang="pt">O Louvre de Abu Dhabi (?)</title>
+    <sub-title lang="pt">O Nascimento de um Museu</sub-title>
+    <category lang="pt">documentarios</category>
   </programme>
   <programme start="20190822234900 +0100" stop="20190823004200 +0100" channel="RTP 2">
-    <title lang="pt">Mil Palavras Não Fazem Uma Árvore - Ep. 8</title>
+    <title lang="pt">Mil Palavras Não Fazem Uma Árvore (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822003000 +0100" stop="20190822023000 +0100" channel="SIC">
-    <title lang="pt">Passadeira Vermelha</title>
-    <episode-num>T6 Ep. 122</episode-num>
+    <title lang="pt">Passadeira Vermelha (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822023000 +0100" stop="20190822034000 +0100" channel="SIC">
-    <title lang="pt">Cabaret Da Coxa 2018 - Ep. 1</title>
+    <title lang="pt">Cabaret da Coxa Especial (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822034000 +0100" stop="20190822053500 +0100" channel="SIC">
-    <title lang="pt">Televendas</title>
+    <title lang="pt">Televendas (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822053500 +0100" stop="20190822060000 +0100" channel="SIC">
-    <title lang="pt">Os Malucos do Riso</title>
+    <title lang="pt">Os Malucos do Riso T... (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822060000 +0100" stop="20190822091000 +0100" channel="SIC">
-    <title lang="pt">Edição Da Manhã</title>
+    <title lang="pt">Edição da Manhã (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822091000 +0100" stop="20190822101000 +0100" channel="SIC">
-    <title lang="pt">Alô Portugal</title>
+    <title lang="pt">Alô Portugal (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822101000 +0100" stop="20190822130000 +0100" channel="SIC">
-    <title lang="pt">O Programa da Cristina</title>
-    <episode-num>T1 Ep. 164</episode-num>
+    <title lang="pt">O Programa da Cristina (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822130000 +0100" stop="20190822144500 +0100" channel="SIC">
-    <title lang="pt">Primeiro Jornal</title>
+    <title lang="pt">Primeiro Jornal (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822144500 +0100" stop="20190822161500 +0100" channel="SIC">
-    <title lang="pt">Amor Maior</title>
-    <episode-num>T1 Ep. 102</episode-num>
+    <title lang="pt">Amor Maior (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822161500 +0100" stop="20190822181500 +0100" channel="SIC">
-    <title lang="pt">Júlia</title>
-    <episode-num>T2 Ep. 155</episode-num>
+    <title lang="pt">Júlia (?)</title>
+    <sub-title lang="pt">Emoções Fortes T.2 Ep.149</sub-title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822181500 +0100" stop="20190822191000 +0100" channel="SIC">
-    <title lang="pt">Avenida Brasil - Ep. 164</title>
-    <desc lang="pt">Nina e Begônia enfrentam Max. Max fala para Carminha que vai administrar o dinheiro que pegou de Nina. Jorginho decide entregar as fotos para Tufão(n)</desc>
+    <title lang="pt">Avenida Brasil (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822191000 +0100" stop="20190822195700 +0100" channel="SIC">
-    <title lang="pt">Prémio De Sonho</title>
-    <episode-num>T1 Ep. 14</episode-num>
+    <title lang="pt">Prémio de Sonho (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822195700 +0100" stop="20190822215000 +0100" channel="SIC">
-    <title lang="pt">Jornal Da Noite</title>
+    <title lang="pt">Jornal da Noite (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822215000 +0100" stop="20190822224000 +0100" channel="SIC">
-    <title lang="pt">Golpe De Sorte - Ep. 64</title>
+    <title lang="pt">Golpe de Sorte (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822224000 +0100" stop="20190822235000 +0100" channel="SIC">
-    <title lang="pt">Alma e Coração - Ep. 282</title>
+    <title lang="pt">Alma e Coração (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822235000 +0100" stop="20190823003000 +0100" channel="SIC">
-    <title lang="pt">A Dona Do Pedaço - Ep. 59</title>
+    <title lang="pt">A Dona do Pedaço (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822004000 +0100" stop="20190822022000 +0100" channel="TVI">
-    <title lang="pt">1000 À Hora</title>
+    <title lang="pt">1000 à Hora (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822022000 +0100" stop="20190822031600 +0100" channel="TVI">
-    <title lang="pt">Meu Amor - Ep. 85</title>
-    <desc lang="pt">As extensas e floridas planícies de proteas e o mar do litoral alentejano testemunham a história de amor clandestina de Mel e Bernardo. O rapaz é filho do dono da herdade onde Mel, filha do caseiro, vive e trabalha como camponesa(n)</desc>
+    <title lang="pt">Meu Amor (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822031600 +0100" stop="20190822041000 +0100" channel="TVI">
-    <title lang="pt">Remédio Santo - Ep. 109</title>
-    <desc lang="pt">Há trinta anos, Violante estava de casamento marcado com o ambicioso Daniel, inconformado com a pobre vida que tinha. Sequioso de ascensão social, Daniel não hesitou em trocar a namorada pobre e que esperava um filho seu, pela milionária Eugénia Monforte(n)</desc>
+    <title lang="pt">Remédio Santo (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822041000 +0100" stop="20190822051500 +0100" channel="TVI">
-    <title lang="pt">Saber Amar - Ep. 105</title>
+    <title lang="pt">Saber Amar (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822051500 +0100" stop="20190822063000 +0100" channel="TVI">
-    <title lang="pt">TV Shop</title>
+    <title lang="pt">TV Shop (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822063000 +0100" stop="20190822101400 +0100" channel="TVI">
-    <title lang="pt">Diário Da Manhã</title>
+    <title lang="pt">Diário da Manhã (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822101400 +0100" stop="20190822130000 +0100" channel="TVI">
-    <title lang="pt">Você Na TV</title>
+    <title lang="pt">Você na TV! (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822130000 +0100" stop="20190822144200 +0100" channel="TVI">
-    <title lang="pt">Jornal Da Uma</title>
+    <title lang="pt">Jornal da Uma (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822144200 +0100" stop="20190822161500 +0100" channel="TVI">
-    <title lang="pt">Belmonte - Ep. 94</title>
-    <desc lang="pt">A família Belmonte está ligada à história ancestral da terra, mas Emílio, o último descendente da família, casou com Clarisse, uma mulher que não podia ter filhos e, por tal, para a sobrevivência do nome, o casal foi adotando as crianças(n)</desc>
+    <title lang="pt">Belmonte (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822161500 +0100" stop="20190822191400 +0100" channel="TVI">
-    <title lang="pt">A Tarde É Sua</title>
+    <title lang="pt">A Tarde é Sua (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822191400 +0100" stop="20190822195700 +0100" channel="TVI">
-    <title lang="pt">First Dates - Diários</title>
+    <title lang="pt">First Dates (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822195700 +0100" stop="20190822214000 +0100" channel="TVI">
-    <title lang="pt">Jornal Das 8</title>
+    <title lang="pt">Jornal das 8 (?)</title>
+    <category lang="pt">informacao</category>
   </programme>
   <programme start="20190822214000 +0100" stop="20190822224000 +0100" channel="TVI">
-    <title lang="pt">Amar Depois De Amar - Ep. 49</title>
+    <title lang="pt">Amar depois de Amar (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822224000 +0100" stop="20190822234000 +0100" channel="TVI">
-    <title lang="pt">Prisioneira - Ep. 82</title>
+    <title lang="pt">Prisioneira (?)</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20190822234000 +0100" stop="20190823003500 +0100" channel="TVI">
-    <title lang="pt">Like Me - Diário (Madrugada)</title>
+    <title lang="pt">Like Me (?)</title>
+    <sub-title lang="pt">Diários</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822010000 +0100" stop="20190822012500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822012500 +0100" stop="20190822014000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz T.3... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822014000 +0100" stop="20190822021000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Um Contra Um (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822021000 +0100" stop="20190822030500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Toda a Verdade: Um Coração Invisível (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822030500 +0100" stop="20190822033000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822033000 +0100" stop="20190822040000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Grande Reportagem (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822040000 +0100" stop="20190822044000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">60 Minutos (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822044000 +0100" stop="20190822050500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822050500 +0100" stop="20190822051500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Exame Informática (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822051500 +0100" stop="20190822053000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz T.3... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822053000 +0100" stop="20190822060000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822095000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição da Manhã (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822095000 +0100" stop="20190822100000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Futuro Hoje (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822100000 +0100" stop="20190822110000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal das Dez (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822110000 +0100" stop="20190822111000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822111000 +0100" stop="20190822120000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Opinião Pública (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822120000 +0100" stop="20190822130000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal do Meio-Dia (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822132500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822132500 +0100" stop="20190822134500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Volante T.17 Ep... (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822134500 +0100" stop="20190822142500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal das Duas (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822142500 +0100" stop="20190822163000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição da Tarde (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822163000 +0100" stop="20190822170000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Desporto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822170000 +0100" stop="20190822173000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição da Tarde (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822173000 +0100" stop="20190822185500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Mercado Aberto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822185500 +0100" stop="20190822195700 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal das 7 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822195700 +0100" stop="20190822210000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal da Noite (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822210000 +0100" stop="20190822230000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição da Noite (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822230000 +0100" stop="20190823000000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Mercado Aberto (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822015500 +0100" channel="RTP 3">
+    <title lang="pt">Todas as Palavras T.... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822015500 +0100" stop="20190822022500 +0100" channel="RTP 3">
+    <title lang="pt">Imagine 2084 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822022500 +0100" stop="20190822030000 +0100" channel="RTP 3">
+    <title lang="pt">Visita Guiada (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822030000 +0100" stop="20190822035500 +0100" channel="RTP 3">
+    <title lang="pt">Grande Entrevista (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822035500 +0100" stop="20190822042000 +0100" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822042000 +0100" stop="20190822045000 +0100" channel="RTP 3">
+    <title lang="pt">Manchetes 3 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822045000 +0100" stop="20190822052000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Açores (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822052000 +0100" stop="20190822060000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Madeira (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822063000 +0100" channel="RTP 3">
+    <title lang="pt">Ideias &amp; Companhias (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822063000 +0100" stop="20190822100000 +0100" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822100000 +0100" stop="20190822113000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 10 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822113000 +0100" stop="20190822120000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 11 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822120000 +0100" stop="20190822130000 +0100" channel="RTP 3">
+    <title lang="pt">Jornal das 12 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822140000 +0100" channel="RTP 3">
+    <title lang="pt">Às portas do Inferno (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822140000 +0100" stop="20190822150000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 14 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822153000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 15 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822153000 +0100" stop="20190822154500 +0100" channel="RTP 3">
+    <title lang="pt">Eixo Norte... (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822154500 +0100" stop="20190822160000 +0100" channel="RTP 3">
+    <title lang="pt">Zoom África (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822160000 +0100" stop="20190822170000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 16 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822170000 +0100" stop="20190822180000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 17 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822180000 +0100" stop="20190822200000 +0100" channel="RTP 3">
+    <title lang="pt">18/20 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822200000 +0100" stop="20190822210000 +0100" channel="RTP 3">
+    <title lang="pt">Às portas do Inferno (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822210000 +0100" stop="20190822230000 +0100" channel="RTP 3">
+    <title lang="pt">360º (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822230000 +0100" stop="20190822230500 +0100" channel="RTP 3">
+    <title lang="pt">3 às 23 (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822230500 +0100" stop="20190823000000 +0100" channel="RTP 3">
+    <title lang="pt">Grande Área (?)</title>
+    <category lang="pt">desporto</category>
   </programme>
 </tv>
