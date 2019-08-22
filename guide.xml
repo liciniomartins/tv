@@ -16,6 +16,18 @@
     <display-name lang="pt">TVI</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">SIC NOTICIAS</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
   <programme start="20190822001600 +0100" stop="20190822004800 +0100" channel="RTP 1">
     <title lang="pt">Amor a Quanto Obrigas</title>
     <episode-num>T4 Ep. 3</episode-num>
