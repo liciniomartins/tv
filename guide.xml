@@ -36,6 +36,10 @@
     <display-name lang="pt">PORTO CANAL</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">SIC CARAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
   <programme start="20190822001600 +0100" stop="20190822004800 +0100" channel="RTP 1">
     <title lang="pt">Amor a Quanto Obrigas T.4 E... (?)</title>
     <category lang="pt">series</category>
@@ -988,6 +992,122 @@
   </programme>
   <programme start="20190822230000 +0100" stop="20190823000000 +0100" channel="PORTO CANAL">
     <title lang="pt">Gente Com História (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822000500 +0100" stop="20190822005400 +0100" channel="SIC CARAS">
+    <title lang="pt">Casadas no Paraíso (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822005400 +0100" stop="20190822014300 +0100" channel="SIC CARAS">
+    <title lang="pt">Casadas no Paraíso (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822014300 +0100" stop="20190822022600 +0100" channel="SIC CARAS">
+    <title lang="pt">Extreme Makeover: Reconstrução Total T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822022600 +0100" stop="20190822030900 +0100" channel="SIC CARAS">
+    <title lang="pt">Quatro Casamentos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822030900 +0100" stop="20190822044200 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822044200 +0100" stop="20190822051200 +0100" channel="SIC CARAS">
+    <title lang="pt">Questão de Tempo (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822051200 +0100" stop="20190822064200 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822064200 +0100" stop="20190822071400 +0100" channel="SIC CARAS">
+    <title lang="pt">Contra Capa (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822071400 +0100" stop="20190822084400 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822084400 +0100" stop="20190822093000 +0100" channel="SIC CARAS">
+    <title lang="pt">Quatro Casamentos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822093000 +0100" stop="20190822101500 +0100" channel="SIC CARAS">
+    <title lang="pt">So You Think You Can Dance (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822101500 +0100" stop="20190822104600 +0100" channel="SIC CARAS">
+    <title lang="pt">Posso Entrar? (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822104600 +0100" stop="20190822112600 +0100" channel="SIC CARAS">
+    <title lang="pt">Alta Definição (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822112600 +0100" stop="20190822120900 +0100" channel="SIC CARAS">
+    <title lang="pt">Extreme Makeover: Reconstrução Total T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822120900 +0100" stop="20190822125400 +0100" channel="SIC CARAS">
+    <title lang="pt">O Carro do Amor (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822125400 +0100" stop="20190822134300 +0100" channel="SIC CARAS">
+    <title lang="pt">Casadas no Paraíso (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822134300 +0100" stop="20190822142600 +0100" channel="SIC CARAS">
+    <title lang="pt">Ellen (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822142600 +0100" stop="20190822151100 +0100" channel="SIC CARAS">
+    <title lang="pt">Sim, Quero! (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822151100 +0100" stop="20190822164100 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822164100 +0100" stop="20190822172700 +0100" channel="SIC CARAS">
+    <title lang="pt">Quatro Casamentos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822172700 +0100" stop="20190822181000 +0100" channel="SIC CARAS">
+    <title lang="pt">Quatro Casamentos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822181000 +0100" stop="20190822185700 +0100" channel="SIC CARAS">
+    <title lang="pt">O Carro do Amor (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822185700 +0100" stop="20190822194100 +0100" channel="SIC CARAS">
+    <title lang="pt">Nate e Jeremiah: Casa Design (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822194100 +0100" stop="20190822203000 +0100" channel="SIC CARAS">
+    <title lang="pt">Casadas no Paraíso (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822203000 +0100" stop="20190822205100 +0100" channel="SIC CARAS">
+    <title lang="pt">Sim, Quero! T.7 ... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822205100 +0100" stop="20190822211300 +0100" channel="SIC CARAS">
+    <title lang="pt">Sim, Quero! T.7 E... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822211300 +0100" stop="20190822215200 +0100" channel="SIC CARAS">
+    <title lang="pt">Ellen (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822215200 +0100" stop="20190822223500 +0100" channel="SIC CARAS">
+    <title lang="pt">Extreme Makeover: Reconstrução Total T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822223500 +0100" stop="20190823000500 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha (?)</title>
     <category lang="pt">entretenimento</category>
   </programme>
 </tv>
