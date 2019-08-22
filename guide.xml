@@ -40,6 +40,46 @@
     <display-name lang="pt">SIC CARAS</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">SIC MULHER</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MEMÓRIA">
+    <display-name lang="pt">RTP MEMÓRIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL Q">
+    <display-name lang="pt">CANAL Q</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">SPORT TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD">
+    <display-name lang="pt">SPORT TV 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BENFICA TV">
+    <display-name lang="pt">BENFICA TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BENFICA TV HD">
+    <display-name lang="pt">BENFICA TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 1">
+    <display-name lang="en">ELEVEN SPORTS 1</display-name>
+    <url>http://www.elevensports.pt</url>
+  </channel>
+  <channel id="FUEL TV">
+    <display-name lang="pt">FUEL TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
   <programme start="20190822001600 +0100" stop="20190822004800 +0100" channel="RTP 1">
     <title lang="pt">Amor a Quanto Obrigas T.4 E... (?)</title>
     <category lang="pt">series</category>
@@ -1108,6 +1148,1312 @@
   </programme>
   <programme start="20190822223500 +0100" stop="20190823000500 +0100" channel="SIC CARAS">
     <title lang="pt">Passadeira Vermelha (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822003300 +0100" stop="20190822021500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Levanta-te e Ri 2019 (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822021500 +0100" stop="20190822023600 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Carbonaro Ef... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822023600 +0100" stop="20190822032000 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822032000 +0100" stop="20190822040700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Falta de Chá (?)</title>
+    <sub-title lang="pt">Best Of</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822040700 +0100" stop="20190822044800 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Late Late Show with James Corden... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822044800 +0100" stop="20190822051800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Fala com Ela (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822051800 +0100" stop="20190822060700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Curto Circuito (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822060700 +0100" stop="20190822065700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Curto Circuito (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822065700 +0100" stop="20190822070700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Vida Extra (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822070700 +0100" stop="20190822072200 +0100" channel="SIC RADICAL">
+    <title lang="pt">Volante T.... (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190822072200 +0100" stop="20190822074300 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Carbonaro Ef... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822074300 +0100" stop="20190822080600 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super ... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822080600 +0100" stop="20190822084700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Alone (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822084700 +0100" stop="20190822092800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Alone (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822092800 +0100" stop="20190822093700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Exame Informática (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822093700 +0100" stop="20190822102200 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822102200 +0100" stop="20190822110200 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Late Show With Stephen Colbert ... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822110200 +0100" stop="20190822114800 +0100" channel="SIC RADICAL">
+    <title lang="pt">I'm a Celebrity Get Me Out Of Here T.17 E... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822114800 +0100" stop="20190822121100 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super ... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822121100 +0100" stop="20190822123400 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super ... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822123400 +0100" stop="20190822125800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super T... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822125800 +0100" stop="20190822134100 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822134100 +0100" stop="20190822142900 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822142900 +0100" stop="20190822145000 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Carbonaro Ef... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822145000 +0100" stop="20190822151200 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Carbonaro Eff... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822151200 +0100" stop="20190822155200 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Late Late Show with James Corde... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822155200 +0100" stop="20190822163200 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Tonight Show Starring Jimmy Fal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822163200 +0100" stop="20190822171300 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Late Show With Stephen Colbert T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822171300 +0100" stop="20190822172100 +0100" channel="SIC RADICAL">
+    <title lang="pt">M de Música (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822172100 +0100" stop="20190822174400 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super ... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822174400 +0100" stop="20190822180700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super ... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822180700 +0100" stop="20190822183000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon Ball Super ... (?)</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20190822183000 +0100" stop="20190822191800 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822191800 +0100" stop="20190822200100 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822200100 +0100" stop="20190822204300 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Late Show With Stephen Colbert T.... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822204300 +0100" stop="20190822213000 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Island with Bear Grylls (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822213000 +0100" stop="20190822221800 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Island with Bear Grylls (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822221800 +0100" stop="20190822230800 +0100" channel="SIC RADICAL">
+    <title lang="pt">The Island with Bear Grylls (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822230800 +0100" stop="20190822234800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Alone (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822234800 +0100" stop="20190823003400 +0100" channel="SIC RADICAL">
+    <title lang="pt">Alone (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822004700 +0100" stop="20190822011700 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Au... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822011700 +0100" stop="20190822014000 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First S... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822014000 +0100" stop="20190822020800 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight ... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822020800 +0100" stop="20190822022900 +0100" channel="SIC MULHER">
+    <title lang="pt">Undressed UK T.2... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822022900 +0100" stop="20190822025100 +0100" channel="SIC MULHER">
+    <title lang="pt">Undressed UK T.2 ... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822025100 +0100" stop="20190822033300 +0100" channel="SIC MULHER">
+    <title lang="pt">Body Of Proof (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822033300 +0100" stop="20190822041400 +0100" channel="SIC MULHER">
+    <title lang="pt">Hoarders (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822041400 +0100" stop="20190822042200 +0100" channel="SIC MULHER">
+    <title lang="pt">M de Música (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822042200 +0100" stop="20190822055800 +0100" channel="SIC MULHER">
+    <title lang="pt">Casados À Primeira Vista (?)</title>
+    <sub-title lang="pt">A Semana T.1 Ep.4</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822055800 +0100" stop="20190822064500 +0100" channel="SIC MULHER">
+    <title lang="pt">Casados à Primeira Vista (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822064500 +0100" stop="20190822074200 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822074200 +0100" stop="20190822075200 +0100" channel="SIC MULHER">
+    <title lang="pt">Boa Cama Boa Mesa (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822075200 +0100" stop="20190822085000 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822085000 +0100" stop="20190822093300 +0100" channel="SIC MULHER">
+    <title lang="pt">Dr. Phil (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822093300 +0100" stop="20190822101500 +0100" channel="SIC MULHER">
+    <title lang="pt">O Veterinário de Bondi (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822101500 +0100" stop="20190822105900 +0100" channel="SIC MULHER">
+    <title lang="pt">Hoarders (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822105900 +0100" stop="20190822114300 +0100" channel="SIC MULHER">
+    <title lang="pt">Temptation Island USA (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822114300 +0100" stop="20190822122300 +0100" channel="SIC MULHER">
+    <title lang="pt">Temptation Island USA (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822122300 +0100" stop="20190822124200 +0100" channel="SIC MULHER">
+    <title lang="pt">Matilda e a Fa... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822124200 +0100" stop="20190822130300 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822130300 +0100" stop="20190822133100 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight ... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822133100 +0100" stop="20190822141600 +0100" channel="SIC MULHER">
+    <title lang="pt">My Dream Home (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822141600 +0100" stop="20190822150300 +0100" channel="SIC MULHER">
+    <title lang="pt">Casados à Primeira Vista (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822150300 +0100" stop="20190822160100 +0100" channel="SIC MULHER">
+    <title lang="pt">Joias TV (?)</title>
+    <sub-title lang="pt">Televendas</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822160100 +0100" stop="20190822164100 +0100" channel="SIC MULHER">
+    <title lang="pt">Hoarders (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822164100 +0100" stop="20190822172500 +0100" channel="SIC MULHER">
+    <title lang="pt">Body Of Proof (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822172500 +0100" stop="20190822181200 +0100" channel="SIC MULHER">
+    <title lang="pt">America's Got Talent (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822181200 +0100" stop="20190822185600 +0100" channel="SIC MULHER">
+    <title lang="pt">America's Got Talent (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822185600 +0100" stop="20190822194100 +0100" channel="SIC MULHER">
+    <title lang="pt">Temptation Island USA (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822194100 +0100" stop="20190822195800 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At F... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822195800 +0100" stop="20190822202800 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Au... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822202800 +0100" stop="20190822205300 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sig... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822205300 +0100" stop="20190822214300 +0100" channel="SIC MULHER">
+    <title lang="pt">My Dream Home (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822214300 +0100" stop="20190822223100 +0100" channel="SIC MULHER">
+    <title lang="pt">My Dream Home (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822223100 +0100" stop="20190822225900 +0100" channel="SIC MULHER">
+    <title lang="pt">MasterChef Spain T.4 Ep... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822225900 +0100" stop="20190822233800 +0100" channel="SIC MULHER">
+    <title lang="pt">MasterChef Spain (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822233800 +0100" stop="20190822235900 +0100" channel="SIC MULHER">
+    <title lang="pt">The Voice (?)</title>
+    <sub-title lang="pt">A Vo...</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822235900 +0100" stop="20190823004100 +0100" channel="SIC MULHER">
+    <title lang="pt">The Voice (?)</title>
+    <sub-title lang="pt">A Voz da América T.15 Ep.8</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822010000 +0100" stop="20190822015000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Ilha da Fantasia (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822015000 +0100" stop="20190822024000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Acção em Miami (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822024000 +0100" stop="20190822033000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Magnum (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822033000 +0100" stop="20190822035300 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Will and Grace T.3... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822035300 +0100" stop="20190822040000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">A Música Portuguesa a Gostar Dela Própria (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822040000 +0100" stop="20190822045500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Esquadra de Polícia (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822045500 +0100" stop="20190822055000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Estado de Graça (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822055000 +0100" stop="20190822061700 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Nem o Pai Morre Nem a ... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822061700 +0100" stop="20190822063100 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Replay (Compacto) (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822063100 +0100" stop="20190822070000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Horizontes da Memória T.... (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822070000 +0100" stop="20190822070500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">A Música Portuguesa a Gostar Dela Própria (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822070500 +0100" stop="20190822075000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Sinais de Vida (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822075000 +0100" stop="20190822082500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Na Paz dos Anjos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822082500 +0100" stop="20190822095700 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Jogos Sem Fronteiras 1996 (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822095700 +0100" stop="20190822111200 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Os Reis do Estúdio (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822111200 +0100" stop="20190822115500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Bem-Vindos a Beirais (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822115500 +0100" stop="20190822124500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Regresso a Sizalinda (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822124500 +0100" stop="20190822133000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">A Grande Aposta (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822133000 +0100" stop="20190822140000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Fábrica das Anedotas T.3 ... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822140000 +0100" stop="20190822143000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">José Escada (?)</title>
+    <sub-title lang="pt">Breve Teste...</sub-title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822143000 +0100" stop="20190822150300 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Pare Escute Olhe (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822150300 +0100" stop="20190822153300 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Nem o Pai Morre Nem a Gen... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822153300 +0100" stop="20190822154000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Nome de Rua (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822154000 +0100" stop="20190822163200 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Estado de Graça (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822163200 +0100" stop="20190822170500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Horizontes da Memória T.7 Ep... (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822170500 +0100" stop="20190822175000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Ajuste de Contas (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822175000 +0100" stop="20190822175500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Ao Som do Automóvel (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822175500 +0100" stop="20190822183000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Aqui Portugal (?)</title>
+    <sub-title lang="pt">Concurso T.1 E...</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822183000 +0100" stop="20190822190900 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Bem-Vindos a Beirais (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822190900 +0100" stop="20190822192000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Replay (Compacto) (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822192000 +0100" stop="20190822201000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Ilha da Fantasia (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822201000 +0100" stop="20190822210000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Acção em Miami (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822210000 +0100" stop="20190822215000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Magnum (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822215000 +0100" stop="20190822223300 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Regresso a Sizalinda (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822223300 +0100" stop="20190822224000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Dora e Dário (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822224000 +0100" stop="20190822230300 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Will and Grace T.3... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822230300 +0100" stop="20190822233600 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">A Mulher do Senhor Ministro ... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822233600 +0100" stop="20190822235800 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Magazine de Arqui... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822235800 +0100" stop="20190823010100 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Bartolomeu Cid dos Santos (?)</title>
+    <sub-title lang="pt">Por Terras Devastadas</sub-title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822000200 +0100" stop="20190822010200 +0100" channel="CANAL Q">
+    <title lang="pt">A Costeleta de Adão (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822010200 +0100" stop="20190822014000 +0100" channel="CANAL Q">
+    <title lang="pt">Filho da Mãe (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822014000 +0100" stop="20190822014700 +0100" channel="CANAL Q">
+    <title lang="pt">V Séries (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822014700 +0100" stop="20190822023400 +0100" channel="CANAL Q">
+    <title lang="pt">É a Vida Alvim (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822023400 +0100" stop="20190822033100 +0100" channel="CANAL Q">
+    <title lang="pt">Super Swing (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822033100 +0100" stop="20190822040800 +0100" channel="CANAL Q">
+    <title lang="pt">Shortcutz (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822040800 +0100" stop="20190822042300 +0100" channel="CANAL Q">
+    <title lang="pt">Portugal A... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822042300 +0100" stop="20190822053700 +0100" channel="CANAL Q">
+    <title lang="pt">Miúdas Nuas Já a Seguir (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822053700 +0100" stop="20190822063600 +0100" channel="CANAL Q">
+    <title lang="pt">Arena da Mentira (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822063600 +0100" stop="20190822071800 +0100" channel="CANAL Q">
+    <title lang="pt">Conta-me Tudo (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822071800 +0100" stop="20190822075700 +0100" channel="CANAL Q">
+    <title lang="pt">Telebaladas (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822075700 +0100" stop="20190822085300 +0100" channel="CANAL Q">
+    <title lang="pt">É a Vida Alvim (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822085300 +0100" stop="20190822091900 +0100" channel="CANAL Q">
+    <title lang="pt">Lendas Vivas (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822091900 +0100" stop="20190822093400 +0100" channel="CANAL Q">
+    <title lang="pt">O Outro La... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822093400 +0100" stop="20190822105300 +0100" channel="CANAL Q">
+    <title lang="pt">Baseado Numa História Verídica (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822105300 +0100" stop="20190822113900 +0100" channel="CANAL Q">
+    <title lang="pt">Arena da Mentira (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822113900 +0100" stop="20190822123900 +0100" channel="CANAL Q">
+    <title lang="pt">É a Vida Alvim (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822123900 +0100" stop="20190822131100 +0100" channel="CANAL Q">
+    <title lang="pt">Posto de Comando (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822131100 +0100" stop="20190822133300 +0100" channel="CANAL Q">
+    <title lang="pt">Conta-me Tudo T.1... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822133300 +0100" stop="20190822141300 +0100" channel="CANAL Q">
+    <title lang="pt">Super Swing (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822141300 +0100" stop="20190822144400 +0100" channel="CANAL Q">
+    <title lang="pt">Telebaladas (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822144400 +0100" stop="20190822151200 +0100" channel="CANAL Q">
+    <title lang="pt">O Outro Lado dos Antípo... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822151200 +0100" stop="20190822170600 +0100" channel="CANAL Q">
+    <title lang="pt">Baseado Numa História Verídica (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822170600 +0100" stop="20190822173800 +0100" channel="CANAL Q">
+    <title lang="pt">Lendas Vivas (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822173800 +0100" stop="20190822174800 +0100" channel="CANAL Q">
+    <title lang="pt">V Séries (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822174800 +0100" stop="20190822183300 +0100" channel="CANAL Q">
+    <title lang="pt">Short content (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822183300 +0100" stop="20190822191800 +0100" channel="CANAL Q">
+    <title lang="pt">Toca e Foge (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822191800 +0100" stop="20190822201900 +0100" channel="CANAL Q">
+    <title lang="pt">Querido Diário (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822201900 +0100" stop="20190822211400 +0100" channel="CANAL Q">
+    <title lang="pt">É a Vida Alvim (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822211400 +0100" stop="20190822221200 +0100" channel="CANAL Q">
+    <title lang="pt">Freuda-se (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822221200 +0100" stop="20190822223000 +0100" channel="CANAL Q">
+    <title lang="pt">Short content... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822223000 +0100" stop="20190822230700 +0100" channel="CANAL Q">
+    <title lang="pt">Shortcutz (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822230700 +0100" stop="20190823001000 +0100" channel="CANAL Q">
+    <title lang="pt">Inferno de Verão (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822011000 +0100" stop="20190822013000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Liga NOS (?)</title>
+    <sub-title lang="pt">Golo...</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822033000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">Flamengo x Internacional. 1ª Mão dos Quartos-de-Final (Direto)</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822033000 +0100" stop="20190822060000 +0100" channel="SPORT TV 1">
+    <title lang="pt">NASCAR Cup Series (?)</title>
+    <sub-title lang="pt">Bass Pro Shops NRA Night Race</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822080000 +0100" channel="SPORT TV 1">
+    <title lang="pt">ATP World Tour 1000 (?)</title>
+    <sub-title lang="pt">Cincinnati. Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822080000 +0100" stop="20190822083000 +0100" channel="SPORT TV 1">
+    <title lang="pt">MLS (?)</title>
+    <sub-title lang="pt">Magazine</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822083000 +0100" stop="20190822090000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Segunda Liga (?)</title>
+    <sub-title lang="pt">Magazine</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822090000 +0100" stop="20190822110000 +0100" channel="SPORT TV 1">
+    <title lang="pt">MLS (?)</title>
+    <sub-title lang="pt">DC United x NY Red Bulls</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822110000 +0100" stop="20190822130000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Copa Sul-Americana (?)</title>
+    <sub-title lang="pt">Atl. Mineiro x La Equidad. Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822150000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">Grêmio x Palmeiras. 1ª Mão dos Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822170000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">LDU Quito x Boca Juniors. 1ª Mão dos Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822170000 +0100" stop="20190822190000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">Flamengo x Internacional. 1ª Mão dos Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822190000 +0100" stop="20190822194500 +0100" channel="SPORT TV 1">
+    <title lang="pt">Segunda Liga (?)</title>
+    <sub-title lang="pt">Magazine</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822194500 +0100" stop="20190822220000 +0100" channel="SPORT TV 1">
+    <title lang="pt">UEFA Europa League (?)</title>
+    <sub-title lang="pt">SC Braga x Spartak Moscovo. 1ª Mão do Playoff (Direto)</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822220000 +0100" stop="20190822223500 +0100" channel="SPORT TV 1">
+    <title lang="pt">Magazine Liga NOS (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822223500 +0100" stop="20190822231500 +0100" channel="SPORT TV 1">
+    <title lang="pt">Premier League World (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822231500 +0100" stop="20190823013000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">River Plate x Cerro Porteño. 1ª Mão dos Quartos-de-Final (Direto)</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822011000 +0100" stop="20190822013000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Liga NOS (?)</title>
+    <sub-title lang="pt">Golo...</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822033000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">Flamengo x Internacional. 1ª Mão dos Quartos-de-Final (Direto)</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822033000 +0100" stop="20190822060000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">NASCAR Cup Series (?)</title>
+    <sub-title lang="pt">Bass Pro Shops NRA Night Race</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822080000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">ATP World Tour 1000 (?)</title>
+    <sub-title lang="pt">Cincinnati. Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822080000 +0100" stop="20190822083000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">MLS (?)</title>
+    <sub-title lang="pt">Magazine</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822083000 +0100" stop="20190822090000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Segunda Liga (?)</title>
+    <sub-title lang="pt">Magazine</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822090000 +0100" stop="20190822110000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">MLS (?)</title>
+    <sub-title lang="pt">DC United x NY Red Bulls</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822110000 +0100" stop="20190822130000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Copa Sul-Americana (?)</title>
+    <sub-title lang="pt">Atl. Mineiro x La Equidad. Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822150000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">Grêmio x Palmeiras. 1ª Mão dos Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822170000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">LDU Quito x Boca Juniors. 1ª Mão dos Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822170000 +0100" stop="20190822190000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">Flamengo x Internacional. 1ª Mão dos Quartos-de-Final</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822190000 +0100" stop="20190822194500 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Segunda Liga (?)</title>
+    <sub-title lang="pt">Magazine</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822194500 +0100" stop="20190822220000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">UEFA Europa League (?)</title>
+    <sub-title lang="pt">SC Braga x Spartak Moscovo. 1ª Mão do Playoff (Direto)</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822220000 +0100" stop="20190822223500 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Magazine Liga NOS (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822223500 +0100" stop="20190822231500 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Premier League World (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822231500 +0100" stop="20190823013000 +0100" channel="SPORT TV 1 HD">
+    <title lang="pt">Taça Libertadores (?)</title>
+    <sub-title lang="pt">River Plate x Cerro Porteño. 1ª Mão dos Quartos-de-Final (Direto)</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822002400 +0100" stop="20190822012400 +0100" channel="BENFICA TV">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Academia VP. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822012400 +0100" stop="20190822015600 +0100" channel="BENFICA TV">
+    <title lang="pt">Off Road Magazine (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822015600 +0100" stop="20190822022600 +0100" channel="BENFICA TV">
+    <title lang="pt">Cine BTV (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822022600 +0100" stop="20190822025400 +0100" channel="BENFICA TV">
+    <title lang="pt">Benfica 21 Horas T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822025400 +0100" stop="20190822042400 +0100" channel="BENFICA TV">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822042400 +0100" stop="20190822051900 +0100" channel="BENFICA TV">
+    <title lang="pt">Vitórias e Património (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822051900 +0100" stop="20190822062600 +0100" channel="BENFICA TV">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Odivelas. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822062600 +0100" stop="20190822063300 +0100" channel="BENFICA TV">
+    <title lang="pt">Rali da Madeira (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822063300 +0100" stop="20190822065800 +0100" channel="BENFICA TV">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822065800 +0100" stop="20190822082900 +0100" channel="BENFICA TV">
+    <title lang="pt">Andebol (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822082900 +0100" stop="20190822095900 +0100" channel="BENFICA TV">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822095900 +0100" stop="20190822114400 +0100" channel="BENFICA TV">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822114400 +0100" stop="20190822132800 +0100" channel="BENFICA TV">
+    <title lang="pt">Liga Revelação (?)</title>
+    <sub-title lang="pt">SLB x Belenenses SAD. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822132800 +0100" stop="20190822135900 +0100" channel="BENFICA TV">
+    <title lang="pt">Pelas Casas do Benfica T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822135900 +0100" stop="20190822143100 +0100" channel="BENFICA TV">
+    <title lang="pt">Benfica 14 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822143100 +0100" stop="20190822151500 +0100" channel="BENFICA TV">
+    <title lang="pt">Leonor &amp; José Nuno (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822151500 +0100" stop="20190822155500 +0100" channel="BENFICA TV">
+    <title lang="pt">Em Linha (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822155500 +0100" stop="20190822180000 +0100" channel="BENFICA TV">
+    <title lang="pt">Liga Revelação (?)</title>
+    <sub-title lang="pt">SLB x Feirense. Direto</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822180000 +0100" stop="20190822183200 +0100" channel="BENFICA TV">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822183200 +0100" stop="20190822190100 +0100" channel="BENFICA TV">
+    <title lang="pt">Jornal O Benfica T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822190100 +0100" stop="20190822200100 +0100" channel="BENFICA TV">
+    <title lang="pt">Grandes Adeptos SLB (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822200100 +0100" stop="20190822203100 +0100" channel="BENFICA TV">
+    <title lang="pt">Corporate Club (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822203100 +0100" stop="20190822205900 +0100" channel="BENFICA TV">
+    <title lang="pt">Os Momentos + Incríveis... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822205900 +0100" stop="20190822212900 +0100" channel="BENFICA TV">
+    <title lang="pt">Benfica 21 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822212900 +0100" stop="20190822230000 +0100" channel="BENFICA TV">
+    <title lang="pt">Aquecimento (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822230000 +0100" stop="20190822233000 +0100" channel="BENFICA TV">
+    <title lang="pt">Pelas Casas do Benfica T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822233000 +0100" stop="20190822235900 +0100" channel="BENFICA TV">
+    <title lang="pt">Jornal O Benfica T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822235900 +0100" stop="20190823002400 +0100" channel="BENFICA TV">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822002400 +0100" stop="20190822012400 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Academia VP. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822012400 +0100" stop="20190822015600 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Off Road Magazine (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822015600 +0100" stop="20190822022600 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Cine BTV (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822022600 +0100" stop="20190822025400 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822025400 +0100" stop="20190822042400 +0100" channel="BENFICA TV HD">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822042400 +0100" stop="20190822051900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Vitórias e Património (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822051900 +0100" stop="20190822062600 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Odivelas. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822062600 +0100" stop="20190822063300 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Rali da Madeira (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822063300 +0100" stop="20190822065800 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822065800 +0100" stop="20190822082900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Andebol (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822082900 +0100" stop="20190822095900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822095900 +0100" stop="20190822114400 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822114400 +0100" stop="20190822132800 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Liga Revelação (?)</title>
+    <sub-title lang="pt">SLB x Belenenses SAD. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822132800 +0100" stop="20190822135900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Pelas Casas do Benfica T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822135900 +0100" stop="20190822143100 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Benfica 14 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822143100 +0100" stop="20190822151500 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Leonor &amp; José Nuno (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822151500 +0100" stop="20190822155500 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Em Linha (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822155500 +0100" stop="20190822180000 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Liga Revelação (?)</title>
+    <sub-title lang="pt">SLB x Feirense. Direto</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822180000 +0100" stop="20190822183200 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822183200 +0100" stop="20190822190100 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Jornal O Benfica T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822190100 +0100" stop="20190822200100 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Grandes Adeptos SLB (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822200100 +0100" stop="20190822203100 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Corporate Club (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822203100 +0100" stop="20190822205900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Os Momentos + Incríveis... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822205900 +0100" stop="20190822212900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822212900 +0100" stop="20190822230000 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Aquecimento (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822230000 +0100" stop="20190822233000 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Pelas Casas do Benfica T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822233000 +0100" stop="20190822235900 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Jornal O Benfica T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822235900 +0100" stop="20190823002400 +0100" channel="BENFICA TV HD">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822003000 +0100" stop="20190822013000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">BUNDESLIGA HIGHLIGHTS</title>
+    <desc lang="en">Bundesliga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822020000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LALIGA WORLD</title>
+    <desc lang="en">LaLiga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822020000 +0100" stop="20190822040000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LYONNAIS x ANGERS</title>
+    <desc lang="en">Ligue 1(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822040000 +0100" stop="20190822060000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">BAYERN x HERTHA</title>
+    <desc lang="en">Bundesliga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822080000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">VILLARREAL x GRANADA</title>
+    <desc lang="en">LaLiga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822080000 +0100" stop="20190822090000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">EFL CHAMPIONSHIP HIGHLIGHTS</title>
+    <desc lang="en">LaLiga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822090000 +0100" stop="20190822100000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LALIGA 2 HIGHLIGHTS</title>
+    <desc lang="en">LaLiga 123(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822100000 +0100" stop="20190822110000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LIGUE 1 HIGHLIGHTS</title>
+    <desc lang="en">Ligue 1(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822110000 +0100" stop="20190822130000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">NANTES x MARSELHA</title>
+    <desc lang="en">Ligue 1(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822150000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">HUDDERSFIELD x FULHAM</title>
+    <desc lang="en">EFL Championship(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822153000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">EFL CHAMPIONSHIP HIGHLIGHTS</title>
+    <desc lang="en">EFL Championship(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822153000 +0100" stop="20190822163000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LIGUE 1 HIGHLIGHTS</title>
+    <desc lang="en">Ligue 1(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822163000 +0100" stop="20190822173000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">BUNDESLIGA HIGHLIGHTS</title>
+    <desc lang="en">Bundesliga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822173000 +0100" stop="20190822180000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">UCL HIGHLIGHTS</title>
+    <desc lang="en">UEFA Champions League(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822180000 +0100" stop="20190822200000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">DINAMO x ROSENBORG</title>
+    <desc lang="en">UEFA Champions League(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822200000 +0100" stop="20190822203000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">BUNDESLIGA WEEKLY</title>
+    <desc lang="en">Bundesliga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822203000 +0100" stop="20190822210000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">BUNDESLIGA CLUBS: KOLN</title>
+    <desc lang="en">Bundesliga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822210000 +0100" stop="20190822213000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LALIGA - O PONTAPE DE SAIDA</title>
+    <desc lang="en">LaLiga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822213000 +0100" stop="20190822220000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">BUNDESLIGA SPECIAL REPORT</title>
+    <desc lang="en">Bundesliga(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822220000 +0100" stop="20190822230000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="en">LALIGA 2 HIGHLIGHTS</title>
+    <desc lang="en">LaLiga 123(n)</desc>
+    <category lang="en">Futebol</category>
+  </programme>
+  <programme start="20190822003000 +0100" stop="20190822010000 +0100" channel="FUEL TV">
+    <title lang="pt">The Moto: Inside The Outd... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822010000 +0100" stop="20190822013000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822013000 +0100" stop="20190822020000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822020000 +0100" stop="20190822023000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822023000 +0100" stop="20190822025000 +0100" channel="FUEL TV">
+    <title lang="pt">The Afends Hemp... (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822025000 +0100" stop="20190822030000 +0100" channel="FUEL TV">
+    <title lang="pt">Looking Thru The B-Sides (?)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190822030000 +0100" stop="20190822031500 +0100" channel="FUEL TV">
+    <title lang="pt">Fairly Nor... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822031500 +0100" stop="20190822033000 +0100" channel="FUEL TV">
+    <title lang="pt">Blastoid (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822033000 +0100" stop="20190822040000 +0100" channel="FUEL TV">
+    <title lang="pt">Tomar Pro Wakeboard 2018 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822040000 +0100" stop="20190822043000 +0100" channel="FUEL TV">
+    <title lang="pt">The Moto: Inside The Outd... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822043000 +0100" stop="20190822050000 +0100" channel="FUEL TV">
+    <title lang="pt">The Moto: Inside The Outd... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822050000 +0100" stop="20190822053000 +0100" channel="FUEL TV">
+    <title lang="pt">On Surfari (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822053000 +0100" stop="20190822060000 +0100" channel="FUEL TV">
+    <title lang="pt">On Surfari (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822060000 +0100" stop="20190822063000 +0100" channel="FUEL TV">
+    <title lang="pt">Firsthand (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822063000 +0100" stop="20190822070000 +0100" channel="FUEL TV">
+    <title lang="pt">Firsthand (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822070000 +0100" stop="20190822080000 +0100" channel="FUEL TV">
+    <title lang="pt">World of X 2018 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822080000 +0100" stop="20190822083000 +0100" channel="FUEL TV">
+    <title lang="pt">CPH Open 2018 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822083000 +0100" stop="20190822090000 +0100" channel="FUEL TV">
+    <title lang="pt">The Adventures of Danny &amp;... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822090000 +0100" stop="20190822093000 +0100" channel="FUEL TV">
+    <title lang="pt">Drive Thru South Africa T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822093000 +0100" stop="20190822100000 +0100" channel="FUEL TV">
+    <title lang="pt">Drive Thru South Africa T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822100000 +0100" stop="20190822103000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822103000 +0100" stop="20190822110000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822110000 +0100" stop="20190822113000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822113000 +0100" stop="20190822115000 +0100" channel="FUEL TV">
+    <title lang="pt">The Afends Hemp... (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822115000 +0100" stop="20190822120000 +0100" channel="FUEL TV">
+    <title lang="pt">Looking Thru The B-Sides (?)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190822120000 +0100" stop="20190822121500 +0100" channel="FUEL TV">
+    <title lang="pt">Fairly Nor... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822121500 +0100" stop="20190822123000 +0100" channel="FUEL TV">
+    <title lang="pt">Blastoid (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822123000 +0100" stop="20190822130000 +0100" channel="FUEL TV">
+    <title lang="pt">Tomar Pro Wakeboard 2018 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822130000 +0100" stop="20190822133000 +0100" channel="FUEL TV">
+    <title lang="pt">The Adventures of Danny &amp;... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822133000 +0100" stop="20190822140000 +0100" channel="FUEL TV">
+    <title lang="pt">The Adventures of Danny &amp;... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822140000 +0100" stop="20190822143000 +0100" channel="FUEL TV">
+    <title lang="pt">Drive Thru South Africa T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822143000 +0100" stop="20190822150000 +0100" channel="FUEL TV">
+    <title lang="pt">Drive Thru South Africa T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822150000 +0100" stop="20190822153000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822153000 +0100" stop="20190822160000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822160000 +0100" stop="20190822163000 +0100" channel="FUEL TV">
+    <title lang="pt">One Less Brick In The Wal... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822163000 +0100" stop="20190822165000 +0100" channel="FUEL TV">
+    <title lang="pt">The Afends Hemp... (?)</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190822165000 +0100" stop="20190822170000 +0100" channel="FUEL TV">
+    <title lang="pt">Looking Thru The B-Sides (?)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190822170000 +0100" stop="20190822171500 +0100" channel="FUEL TV">
+    <title lang="pt">Custom T.3... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822171500 +0100" stop="20190822180000 +0100" channel="FUEL TV">
+    <title lang="pt">Occ-Cast (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822180000 +0100" stop="20190822182300 +0100" channel="FUEL TV">
+    <title lang="pt">ORB (2018) (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822182300 +0100" stop="20190822183000 +0100" channel="FUEL TV">
+    <title lang="pt">Thin Line With Nic Von Rupp (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822183000 +0100" stop="20190822190000 +0100" channel="FUEL TV">
+    <title lang="pt">The Adventures of Danny &amp;... (?)</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190822190000 +0100" stop="20190822193000 +0100" channel="FUEL TV">
+    <title lang="pt">Drive Thru South Africa T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822193000 +0100" stop="20190822200000 +0100" channel="FUEL TV">
+    <title lang="pt">Drive Thru South Africa T... (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822200000 +0100" stop="20190822214000 +0100" channel="FUEL TV">
+    <title lang="pt">Occ-Cast (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822214000 +0100" stop="20190822220000 +0100" channel="FUEL TV">
+    <title lang="pt">ORB (2018) (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822220000 +0100" stop="20190822221500 +0100" channel="FUEL TV">
+    <title lang="pt">Firsthand ... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822221500 +0100" stop="20190822223000 +0100" channel="FUEL TV">
+    <title lang="pt">Firsthand ... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822223000 +0100" stop="20190822224500 +0100" channel="FUEL TV">
+    <title lang="pt">Safety Sum... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822224500 +0100" stop="20190822230000 +0100" channel="FUEL TV">
+    <title lang="pt">Matty Mann... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190822230000 +0100" stop="20190822233500 +0100" channel="FUEL TV">
+    <title lang="pt">Occ-Cast (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190822233500 +0100" stop="20190823000000 +0100" channel="FUEL TV">
+    <title lang="pt">Occ-Cast (?)</title>
     <category lang="pt">entretenimento</category>
   </programme>
 </tv>
